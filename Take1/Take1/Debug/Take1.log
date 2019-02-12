@@ -1,0 +1,3 @@
+﻿  Controller.c
+Controller.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Take1.vcxproj -> F:\Overlay\Take1\Take1\Debug\Take1.exe
